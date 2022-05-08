@@ -13,7 +13,7 @@ To run this project on your local machine. Clone the repository and run the foll
 
 ```bash
     python3 -m venv venv
-    source venv/bin/activate`
+    source venv/bin/activate
     pip install -r requirements.txt
 ```
 Setup the database. Run the seed file, this will generate users and messages.
